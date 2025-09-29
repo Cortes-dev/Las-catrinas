@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+
+body{
+background-color: #030303;
+color: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
