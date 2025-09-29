@@ -63,7 +63,6 @@ const Navbar = () => {
           aria-label="Las Catrinas - Ir al inicio"
         >
           Las Catrinas
-          <span className='text-base font-normal'>Restaurante</span>
         </Link>
 
         {/* Desktop Menu */}

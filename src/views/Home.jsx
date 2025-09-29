@@ -166,8 +166,8 @@ const Home = () => {
             <p className="text-lg text-orange-300 font-semibold">¡Ven y celebra la vida con nosotros!</p>
           </motion.div>
           <motion.div
-            initial={{ opacity: 0, x: 50 }}
-            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: 50 }}
+            whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
             className="md:w-1/2 flex justify-center"
           >
